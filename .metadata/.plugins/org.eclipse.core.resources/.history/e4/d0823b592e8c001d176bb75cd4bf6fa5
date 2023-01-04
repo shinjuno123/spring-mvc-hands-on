@@ -1,0 +1,15 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+
+<!DOCTYPE html>
+
+
+<html>
+<head></head>
+<body>
+
+	<form:form action="processForm">
+		
+	</form:form>
+
+</body>
+</html>

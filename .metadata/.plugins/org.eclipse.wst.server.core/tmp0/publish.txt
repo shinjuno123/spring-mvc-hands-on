@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Jan 04 23:07:14 KST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5\ \uD654\uBA74\\JAVALEARNINGCOLLECTION\\spring-mvc-hands-on\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9-sources.jar=WEB-INF/lib/spring-web-5.3.9-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ASUS\\OneDrive\\\uBC14\uD0D5\ \uD654\uBA74\\JAVALEARNINGCOLLECTION\\spring-mvc-hands-on\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.9.jar=WEB-INF/lib/spring-web-5.3.9.jar

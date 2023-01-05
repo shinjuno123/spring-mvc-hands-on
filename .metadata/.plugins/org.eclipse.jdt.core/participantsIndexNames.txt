@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
+C:\Users\ASUS\OneDrive\바탕 화면\JAVALEARNINGCOLLECTION\spring-mvc-hands-on\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\678282196.index
+\spring-mvc-demo\src
 C:\Users\ASUS\OneDrive\바탕 화면\JAVALEARNINGCOLLECTION\spring-mvc-hands-on\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\237508677.index
 \spring-mvc-demo\src
